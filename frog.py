@@ -55,7 +55,7 @@ def main():
 
 def upload():
 
-  p = "C:/Users/frog7/python/pygame/tumbler-blog"
+  p = "C:/Users/frog7/ruby/jekyll/tumbler-blog"
   dt_now = datetime.datetime.now()
   dt_str = dt_now.strftime('%m-%d %H:%M')
 
